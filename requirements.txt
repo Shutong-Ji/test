@@ -4,3 +4,4 @@ streamlit
 folium
 numpy
 seaborn
+streamlit_folium
