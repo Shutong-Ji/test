@@ -5,5 +5,4 @@ folium
 numpy
 seaborn
 streamlit_folium
-sklearn.cluster
-sklearn.metrics
+scikit-learn
