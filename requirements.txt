@@ -5,6 +5,5 @@ folium
 numpy
 seaborn
 streamlit_folium
-sklearn.datasets._samples_generator
 sklearn.cluster
 sklearn.metrics
